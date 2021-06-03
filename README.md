@@ -23,3 +23,5 @@ Development version
 ### Links
 
 [Google drive](https://drive.google.com/drive/folders/1TPWm4aJlyv7EZwG5KBrpg4tJYpIeztxk?usp=sharing)
+
+[Watson Discovery](https://cloud.ibm.com/docs/discovery/building.html#preparing-the-service-for-your-documents)
